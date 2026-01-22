@@ -1,0 +1,11 @@
+        .conteudo-sobre {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 40px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h2 { color: #e65b2e; margin-bottom: 20px; }
+        p { line-height: 1.8; font-size: 1.1rem; color: #333; }
+        .voltar { display: inline-block; margin-top: 20px; color: #23354d; text-decoration: underline; }
